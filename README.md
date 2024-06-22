@@ -1,0 +1,8 @@
+-  Hi, I’m @VedantWatpade
+-  I’m interested in integrating AI with web and mobile technologies.
+-  I’m currently learning machine learning algorithms, full-stack web development, and advanced Android UI/UX design.
+-  I’m looking to collaborate on innovative AI projects and cross-platform applications.
+-  How to reach me: [Your Email] | [LinkedIn Profile] | [Twitter Handle]
+-  Pronouns: He/Him
+-  Fun fact: I love building intricate structures in Minecraft and strategizing in BGMI!
+-  I provide my code on GitHub for everyone to learn and contribute.
